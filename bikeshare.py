@@ -195,7 +195,7 @@ def main():
             raw_data = input("Would you like to include the next 5 lines of raw data? Enter yes or no \n")
             while raw_data.lower() not in ('yes','no'):
                 raw_data = input("Invalid answer. Please insert yes or no \n")
-
+        ## ask the user if they want to restart the program
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
