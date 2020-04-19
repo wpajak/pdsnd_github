@@ -15,4 +15,6 @@ The program imports the data and answers interesting questions about it by compu
 * washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
+* https://guides.github.com/features/mastering-markdown/
+* Richard Kalehoff
