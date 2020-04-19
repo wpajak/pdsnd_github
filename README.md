@@ -14,6 +14,11 @@ The program imports the data and answers interesting questions about it by compu
 * new_york_city.csv
 * washington.csv
 
+### Software requirements
+* Python 3
+* NumPy
+* pandas
+
 ### Credits
 * https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
 * https://guides.github.com/features/mastering-markdown/
